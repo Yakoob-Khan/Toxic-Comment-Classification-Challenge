@@ -14,12 +14,12 @@
     ├── Tweet-Scraping          			# Code to scrape posts using Tweepy API
     ├── checkpoints     	    			# Contain intermediate predictions
         ├── bert_model_cased_not_lowered 
-    ├── data    							# Training data    
+    ├── data    					# Training data    
     ├── deep_learning_based_models			# BERT Classification   
-    ├── style-transfer						# Text Style Transfer
+    ├── style-transfer				# Text Style Transfer
     ├── README.md							
-    ├── machinelearningmodles				# Sci-kit Learn Classical ML Models
-    └── requirements.txt					# dependencies for reproducibility
+    ├── machinelearningmodles		        # Sci-kit Learn Classical ML Models
+    └── requirements.txt			        # dependencies for reproducibility
     
 
 ## Dataset
